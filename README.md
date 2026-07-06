@@ -3,3 +3,5 @@ Practice code to showcase key concepts.
 File 1: [0001_print.py](https://github.com/aditya-anil-04/practicerepo/blob/main/0001_print.py): Printing Output
 
 File 2: [0002_variables.py](https://github.com/aditya-anil-04/practicerepo/blob/main/0002_variables.py): Creating and Printing Variables
+
+File 3: [0003_arithmetic.py](https://github.com/aditya-anil-04/practicerepo/blob/main/0003_arithmetic.py): Arithmetic Operations in Python
