@@ -1,1 +1,1 @@
-Practice code to show my abilities.
+Practice code to showcase key concepts.
